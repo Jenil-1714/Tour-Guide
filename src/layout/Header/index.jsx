@@ -1,6 +1,6 @@
 //Global Imports
 import React from "react";
-import { Autocomplete } from "@react-google-maps/api";
+// import { Autocomplete } from "@react-google-maps/api";
 import { AppBar, Typography, Toolbar, Box, InputBase } from "@material-ui/core";
 import SearchIcon from "@material-ui/icons/Search";
 
