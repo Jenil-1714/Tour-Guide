@@ -8,7 +8,6 @@ const App = () => {
     <>
       <CssBaseline />
       <MainLayout />
-      Hello World....
     </>
   );
 };
